@@ -1,0 +1,11 @@
+beautifulsoup4
+requests
+pandas
+numpy
+scipy
+matplotlib
+seaborn
+textblob
+vaderSentiment
+wordcloud
+nrclex
