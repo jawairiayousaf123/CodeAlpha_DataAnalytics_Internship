@@ -1,0 +1,5 @@
+﻿Title,ReviewText,VaderScore,VaderSentiment,TextBlobScore,TextBlobSentiment
+A Light in the Attic,"Absolutely loved this collection, it made me laugh and feel nostalgic.",0.8313,Positive,0.16666666666666666,Positive
+Sharp Objects,"Genuinely unsettling in the best way, the tension never lets up.",0.4404,Positive,0.25,Positive
+Sharp Objects,Too dark for my taste and the ending left me disappointed.,-0.4767,Negative,-0.3,Negative
+Sapiens,This book completely changed how I think about human history.,0.0,Neutral,0.05,Neutral
